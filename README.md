@@ -21,6 +21,18 @@ The data was extracted from a publicly available Wikipedia page listing the larg
 
 This project was created for educational and portfolio purposes.
 
+## Source Table Preview
+
+The data was extracted from a public Wikipedia table listing the largest companies in the United States by revenue.
+
+### Source Page
+
+![Wikipedia Source Page](images/source_table_preview2.png)
+
+### Source Table
+
+![Wikipedia Source Table](images/source_table_preview1.png)
+
 ## Project Workflow
 
 1. Sent an HTTP request to the target webpage using `requests`.
@@ -56,6 +68,10 @@ largest-us-companies-web-scraping/
 ├── notebooks/
 │   └── largest_us_companies_web_scraping.ipynb
 │
-└── data/
-    └── extracted/
-        └── largest_us_companies_by_revenue.csv
+├── data/
+│   └── extracted/
+│       └── largest_us_companies_by_revenue.csv
+│
+└── images/
+    ├── source_table_preview1.png
+    └── source_table_preview2.png
