@@ -29,8 +29,6 @@ The data was extracted from a public Wikipedia table listing the largest compani
 
 ![Wikipedia Source Page](images/source_table_preview1.png)
 
-### Source Table
-
 ![Wikipedia Source Table](images/source_table_preview2.png)
 
 ## Project Workflow
