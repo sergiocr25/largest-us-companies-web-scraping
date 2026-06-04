@@ -15,6 +15,14 @@ The objective was to extract a structured table from a Wikipedia page containing
 - pandas
 - GitHub
 
+## Installation
+
+To run this notebook locally, install the required Python libraries using:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Data Source
 
 The data was extracted from a publicly available Wikipedia page listing the largest companies in the United States by revenue.
